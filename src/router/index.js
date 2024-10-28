@@ -1,6 +1,6 @@
 import ManagePosts from '@/components/admin/ManagePosts.vue'
 import ManageUsers from '@/components/admin/ManageUsers.vue'
-import Login from '@/views/auth/login.vue'
+import Login from '@/views/auth/Login.vue'
 import Home from '@/views/User/Home.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
